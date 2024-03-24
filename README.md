@@ -1,5 +1,3 @@
-Sure, here are five lines you can include in your README.md file for your GitHub repository:
-
 1. **Description:** This repository contains a Python program for a language translator GUI using Tkinter and the Google Translate API.
 
 2. **Features:**
